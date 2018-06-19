@@ -1,7 +1,7 @@
 import * as React from 'react';
-import './assets/sass/03-generic/_app.scss';
+import '../../../assets/sass/03-generic/_app.scss';
 
-import logo from './logo.svg';
+import logo from './assets/img/logo.svg';
 
 class App extends React.Component {
   public render() {
